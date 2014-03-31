@@ -11,11 +11,12 @@ Quick start
 -----------
 
 1. Add "*Webdesign*" to your INSTALLED_APPS setting like this::
-
+    ```
       INSTALLED_APPS = (
           ...
           'webdesign',
       )
+    ```
 
 2. Include the polls URLconf in your project urls.py like this::
 
