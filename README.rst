@@ -9,6 +9,10 @@ Detailed documentation is in the "docs" directory.
 
 # Quick start
 
+## Something esle
+
+### some more thinsg
+
 1. Add "**Webdesign**" to your INSTALLED_APPS setting like this::
 
       INSTALLED_APPS = (
