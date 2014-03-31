@@ -9,7 +9,8 @@ Detailed documentation is in the "docs" directory.
 
 # Quick start
 
-1. Add "*Webdesign*" to your INSTALLED_APPS setting like this::
+1. Add "**Webdesign**" to your INSTALLED_APPS setting like this::
+
       INSTALLED_APPS = (
           ...
           'webdesign',
@@ -27,4 +28,4 @@ Detailed documentation is in the "docs" directory.
 5. Visit http://127.0.0.1:8000/webdesign/ to participate in the poll.
 
 
-   ~~mistaken~~
+   ~~ mistaken ~~
