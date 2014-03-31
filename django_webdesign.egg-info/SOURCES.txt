@@ -1,0 +1,14 @@
+MANIFEST.in
+README.rst
+setup.py
+django_webdesign.egg-info/PKG-INFO
+django_webdesign.egg-info/SOURCES.txt
+django_webdesign.egg-info/dependency_links.txt
+django_webdesign.egg-info/top_level.txt
+webdesign/__init__.py
+webdesign/admin.py
+webdesign/forms.py
+webdesign/models.py
+webdesign/tests.py
+webdesign/urls.py
+webdesign/views.py
