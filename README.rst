@@ -7,8 +7,7 @@ Webdesign is simple socail link & address available application
 
 Detailed documentation is in the "docs" directory.
 
-Quick start
------------
+# Quick start
 
 1. Add "*Webdesign*" to your INSTALLED_APPS setting like this::
       INSTALLED_APPS = (
