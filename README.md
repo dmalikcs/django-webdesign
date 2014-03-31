@@ -1,9 +1,6 @@
 #webdesign
 
-Webdesign is simple socail link & address available application
-
-
-Detailed documentation is in the "docs" directory.
+Webdesign is simple socail link & address available application Detailed documentation is in the "docs" directory.
 
 ## Quick start
 
@@ -20,7 +17,9 @@ Detailed documentation is in the "docs" directory.
     ```
 2. Include the polls URLconf in your project urls.py like this::
 
+    ```
       url(r'^webdesign/', include('webdesign.urls')),
+    ```
 
 3. Run `python manage.py syncdb` to create the polls models.
 
